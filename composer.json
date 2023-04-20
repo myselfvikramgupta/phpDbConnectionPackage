@@ -1,0 +1,20 @@
+{
+    "name": "dell/php-code",
+    "autoload": {
+        "psr-4": {
+            "Dell\\PhpCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "myselfvikramgupta",
+            "email": "myselfvikramgupta@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "App\\":"./app"
+        }
+    }
+}
