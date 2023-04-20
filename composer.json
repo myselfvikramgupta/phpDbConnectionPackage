@@ -1,5 +1,5 @@
 {
-    "name": "myselfvikramgupta/phpDbConnectionPackage",
+    "name": "myselfvikramgupta/php-db-connection-package",
     "autoload": {
         "psr-4": {
             "Dell\\PhpCode\\": "src/"
