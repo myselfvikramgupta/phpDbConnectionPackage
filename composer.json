@@ -1,5 +1,5 @@
 {
-    "name": "dell/php-code",
+    "name": "myselfvikramgupta",
     "autoload": {
         "psr-4": {
             "Dell\\PhpCode\\": "src/"
